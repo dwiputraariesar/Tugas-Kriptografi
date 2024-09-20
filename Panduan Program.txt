@@ -1,0 +1,6 @@
+Panduan Program
+
+1. Tambahkan opsi button untuk memilih antara Vigenere, Playfair, dan Hill Cipher.
+2. Pilih akan melakukan enkripsi atau deskripsi
+3. Masukkan teks dan kunci pada textbox yang sesuai.
+4. Tekan tombol untuk memproses teks dan tampilkan hasilnya.
